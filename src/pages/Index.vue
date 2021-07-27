@@ -64,14 +64,14 @@
                style="border-top:3px solid #bdbdbd;border-bottom: 3px solid #bdbdbd;">HELLO
           </div>
           <h5 class="q-my-none text-caption" style="color: #20ffff;">
-            I am Mayank Patel (Known as mayank091193). I am in the programming field since 2011. I always wanted to
+            I am Ireti Ogedengbe (Known as ireti203). I started programming in 2020. I always wanted to
             become a skilled programmer. My passion to become a full-stack developer increased when I started working at
-            my first job in Vadodara, Gujarat.
+            my first project at Dufuna.
             <br>
             <br>
-            I started my career with HTML/CSS as the front-end and ASP.NET C#. In the initial stage, I was working on 3
-            tier architecture that our company had built. Later we had implemented ASP.NET MVC Architecture. Later after
-            2 years, I have decided to move to another company to get myself challenges and learn more. In my second
+            I started my career with HTML/CSS as the front-end and PHP for the backend using the Yii 2.0 Framework. I collaborated 
+            with two other developers in building a platform for reporting digital violations in Africa.
+            On completion of that project, I have decided to move to another company to get myself challenges and learn more. In my second
             company, I started working on HTML/Bootstrap/AngularJS as the front-end and Python as the back-end language.
             <br>
             <br>

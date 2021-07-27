@@ -31,13 +31,13 @@
         <div class="">
           <div class="text-h6 text-grey-5">WELCOME TO MY PAGE</div>
           <div class="text-h2 text-white q-py-sm q-my-md"
-               style="border-top:3px solid #1595de;border-bottom: 3px solid #2faa64;">I'M A FULL-STACK DEVELOPER
+               style="border-top:3px solid #1595de;border-bottom: 3px solid #2faa64;">I'M A SOFTWARE ENGINEER
           </div>
           <div class="text-h6" style="color: #f4b825;">
-            WEB DEVELOPMENT | WEB DESIGN | SERVER MANAGEMENT
+            WEB DEVELOPMENT | FRONTEND DEVELOPMENT | DEVOPS
           </div>
           <div style="color: #1495de !important;" class="text-h4 q-mt-md text-grey-2 my-font">
-            Mayank Patel
+            Ireti Ogedengbe
           </div>
         </div>
       </div>
@@ -54,7 +54,7 @@
             <div style="background-color: rgba(0, 0, 0, 0.68) !important;">
               <q-img style="height:300px"
                      class="col-5"
-                     src="/statics/images/my_2.jpg"
+                     src="/statics/images/ireti_2.jpeg"
               />
             </div>
           </div>
@@ -533,7 +533,7 @@
 <style>
   .main {
 
-    background: url(/statics/images/my_1.jpg) no-repeat center center fixed;
+    background: url(/statics/images/ireti_2.jpeg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -542,7 +542,7 @@
   }
 
   .mobile_main {
-    background: url(/statics/images/my_1_2.jpg) no-repeat center center fixed;
+    background: url(/statics/images/IMG_1557.PNG) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
